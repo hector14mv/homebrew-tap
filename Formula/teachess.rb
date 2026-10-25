@@ -3,8 +3,8 @@ class Teachess < Formula
 
   desc "Chess coach for your chess.com games, in the terminal and for agents"
   homepage "https://github.com/hector14mv/teachess"
-  url "https://github.com/hector14mv/teachess/archive/refs/tags/v0.1.3.tar.gz"
-  sha256 "266551b63c904389e359108102f9bf2935d70e598e0addbc6f5918fe62f99dbb"
+  url "https://github.com/hector14mv/teachess/archive/refs/tags/v0.1.4.tar.gz"
+  sha256 "2eb185f9c610c827c55c5a854b1a2f233a1b89f95d5bad3c213de030a53146af"
   license "MIT"
 
   depends_on "python@3.12"
